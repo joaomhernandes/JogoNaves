@@ -10,8 +10,9 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 Foram implementados alguns extras:
 
 - Movimentação horizontal da nave;
-- Foi implementado um intervalo aleatório para o respaw do caminhão e do soldado a ser resgatado.
+- Foi implementado um intervalo aleatório para o respawn do caminhão e do soldado a ser resgatado.
 - Ajustado sons e animações.
+- [Jogo hospedado para ser testado](http://jogo-nave-jmhc.mygamesonline.org/) - Devido à limitações do plano gratuito, o jogo está sem sons.
 
 ## Contact
 
